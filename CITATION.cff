@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated manuscript."
+title: "Reliability graded boundary proximity for local nonstationary iron ore grade modelling"
+authors:
+  - family-names: Wu
+    given-names: Zhiyuan
+  - family-names: Xu
+    given-names: Xiaochuan
+  - family-names: Gu
+    given-names: Xiaowei
+  - family-names: Zheng
+    given-names: Xuelin
+  - family-names: Zhao
+    given-names: Yunqi
+  - family-names: Li
+    given-names: Chao
+  - family-names: Qin
+    given-names: Meiman
+version: 0.1.0
+date-released: 2026-07-04
